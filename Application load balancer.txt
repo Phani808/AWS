@@ -1,0 +1,6 @@
+In linux terminal enter these commands
+/var/www/html
+and create one directory
+mkdir phani
+In html directory we have index.html file move that file into phani directory so enter command shown below
+mv index.html phani/
